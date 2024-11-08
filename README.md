@@ -13,6 +13,10 @@ CSS3: Used for design and style features.
 JavaScript: Used to add small dynamic features to the page.
 
 screenshot
-![Zight Recording 2024-11-08 at 11 34 39 PM](https://github.com/user-attachments/assets/86801cbb-2938-4772-b3d6-6844d47ac4de)
+
+
+![Zight Recording 2024-11-08 at 11 34 39 PM (2)](https://github.com/user-attachments/assets/589a5b9c-468b-44a1-a217-81e1c37e7c6b)
+
+
 
 
